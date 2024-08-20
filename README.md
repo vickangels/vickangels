@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vick
+- 👋 Hi, I’m Laura
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning HTML and CSS
 - 😄 Pronouns: she/her
